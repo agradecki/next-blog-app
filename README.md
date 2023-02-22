@@ -26,17 +26,17 @@ npm run dev
 
 ### Main Page
 
-![](https://github.com/agradecki/next-blog-app/tree/main/assets/img.png)
-![](https://github.com/agradecki/next-blog-app/tree/main/assets/img1.png)
+![](https://github.com/agradecki/next-blog-app/blob/main/assets/img.png)
+![](https://github.com/agradecki/next-blog-app/blob/main/assets/img1.png)
 
 ### All Posts Page
 
-![](https://github.com/agradecki/next-blog-app/tree/main/assets/img2.png)
+![](https://github.com/agradecki/next-blog-app/blob/main/assets/img2.png)
 
 ### Detail Post Page
 
-![](https://github.com/agradecki/next-blog-app/tree/main/assets/img4.png)
+![](https://github.com/agradecki/next-blog-app/blob/main/assets/img4.png)
 
 ### Contact Page
 
-![](https://github.com/agradecki/next-blog-app/tree/main/assets/img3.png)
+![](https://github.com/agradecki/next-blog-app/blob/main/assets/img3.png)
